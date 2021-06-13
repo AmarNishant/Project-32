@@ -74,37 +74,37 @@ function draw(){
         text("Time : " + time + " AM", 100, 50);
     }
     if(time === -1){
-        text("Time : " + time + " AM", 100, 50);
+        text("Time : " + time+12 + " AM", 100, 50);
     }
     if(time === -2){
-        text("Time : " + time + " AM", 100, 50);
+        text("Time : " + time+12 + " AM", 100, 50);
     }
     if(time === -3){
-        text("Time : " + time + " AM", 100, 50);
+        text("Time : " + time+12 + " AM", 100, 50);
     }
     if(time === -4){
-        text("Time : " + time + " AM", 100, 50);
+        text("Time : " + time+12 + " AM", 100, 50);
     }
     if(time === -5){
-        text("Time : " + time + " AM", 100, 50);
+        text("Time : " + time+12 + " AM", 100, 50);
     }
     if(time === -6){
-        text("Time : " + time + " AM", 100, 50);
+        text("Time : " + time+12 + " AM", 100, 50);
     }
     if(time === -7){
-        text("Time : " + time + " AM", 100, 50);
+        text("Time : " + time+12 + " AM", 100, 50);
     }
     if(time === -8){
-        text("Time : " + time + " AM", 100, 50);
+        text("Time : " + time+12 + " AM", 100, 50);
     }
     if(time === -9){
-        text("Time : " + time + " AM", 100, 50);
+        text("Time : " + time+12 + " AM", 100, 50);
     }
     if(time === -10){
-        text("Time : " + time + " AM", 100, 50);
+        text("Time : " + time+12 + " AM", 100, 50);
     }
     if(time === -11){
-        text("Time : " + time + " AM", 100, 50);
+        text("Time : " + time+12 + " AM", 100, 50);
     }
 
 }
